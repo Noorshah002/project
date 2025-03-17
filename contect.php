@@ -408,7 +408,7 @@ button:hover {
     </div>
 
     <div class="form-group">
-        <label for="message">Message *</label>
+        <label for="message">FeedBack *</label>
         <textarea id="message" name="message" rows="4" required></textarea>
         <span class="validation-icon">✓</span>
         <div class="error-message" id="messageError">Please enter your message</div>
